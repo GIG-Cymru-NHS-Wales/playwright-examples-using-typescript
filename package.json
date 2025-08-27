@@ -1,0 +1,29 @@
+{
+  "name": "playwright-examples-using-typescript",
+  "version": "1.0.0",
+  "description": "Playwright examples using TypeScript",
+  "keywords": [
+    "demo",
+    "playwright",
+    "javascript",
+    "test"
+  ],
+  "homepage": "https://github.com/joelparkerhenderson/playwright-examples-using-typescript#readme",
+  "bugs": {
+    "url": "https://github.com/joelparkerhenderson/playwright-examples-using-typescript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelparkerhenderson/playwright-examples-using-typescript.git"
+  },
+  "license": "GPL-2.0-or-later",
+  "author": "Joel Parker Henderson <joel@joelparkerhenderson.com>",
+  "type": "module",
+  "main": "src/demo.ts",
+  "scripts": {
+    "test": "node src/demo.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
